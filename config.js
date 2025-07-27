@@ -42,6 +42,6 @@ READ_CMD: process.env.READ_CMD || "false",
 DEV: process.env.DEV || "254794146821",
 ANTI_VV: process.env.ANTI_VV || "true",
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log",
-AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
+AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
 ANTICALL: process.env.ANTICALL || "true"
 };
